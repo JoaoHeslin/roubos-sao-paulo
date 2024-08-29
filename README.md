@@ -16,3 +16,5 @@ Este projeto tem como objetivo analisar a ocorrência de roubos no estado de Sã
 2. **Gráfico de Calor da Capital**: Criamos um mapa de calor para a cidade de São Paulo, mostrando as áreas com maior densidade de roubos.
 3. **Mapa de Pontos da Capital**: Desenvolvemos um mapa de pontos para visualizar a localização exata das ocorrências de roubos na cidade de São Paulo.
 
+- O arquivo de dados utilizado é grande e, portanto, não conseguirá ser mostrado no GitHub. Para acessar o arquivo, utilize o [https://drive.google.com/file/d/1e3CppDrm4bftjSgeO2d_kgYigXCJe1AM/view?usp=sharing](#).
+- Certifique-se de que as bibliotecas necessárias estão instaladas e atualizadas para evitar problemas de compatibilidade.
